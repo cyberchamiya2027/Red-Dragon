@@ -11,8 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = '+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++'
+🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `+++++++++++++++++++++++++++++++++++++++bot chamiya++++++++++++++++++++++++++++++++++++++++++` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,10 +29,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] //ur owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
-global.ytname = "" //ur yt chanel name
-global.socialm = "GitHub: prabhasha2006" //ur github or insta name
+global.vcardowner = ['+94740522887'] //ur owner number
+global.ownername = "++++++++++++++++++++++++++++" //ur owner name
+global.ytname = "+++++++++++++++++++++" //ur yt chanel name
+global.socialm = "GitHub: +++++++++++++++" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot body 
@@ -42,19 +42,19 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 global.callblock = "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 global.antibad = "false" // To remove bad word senders
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //ur tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.owner = ['+94740522887']
+global.ownertag = '+94740522887' //ur tag number
+global.botname = '++++++++++++ - 𝘉𝘖𝘛' //ur bot name
+global.packname = "++++++++++++ Bot Sticker" // sticker packname
+global.author = "+++++++++++++++++" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ +++++++++++++++++ ]' //
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ ...HI DEAR... ☰' //Costomize A Button Name In Alive Message
+global.btnurl = '++++++++++++++++++++' //Change Your Button's URL
 
 //damtabase
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94740522887'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -81,14 +81,14 @@ global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,
 global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
+    admin: 'Only Admins can use it!',
+    botAdmin: 'Bot wants to be an Admin',
+    owner: 'Only Owner can use this!',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
-    error: 'Error!!! Maybe Api Key Is Expired🤔!',
+    bot: 'This Feature Is Only For Bot',
+    wait: 'Pleas Wait...',
+    error: 'Error!!! Maybe Api Key Is Expired!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
